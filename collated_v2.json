@@ -1,0 +1,3253 @@
+[
+    {
+        "conversation_metadata": {
+            "conversation_id": "3152001",
+            "customer_id": "C101",
+            "timestamp": "2023-10-01T10:00:00Z",
+            "call_type": "inbound",
+            "participants": {
+                "customer": {
+                    "customer_name": "Robert Chen",
+                    "account_type": "Investment accounts"
+                },
+                "agent": {
+                    "agent_name": "Sarah"
+                }
+            },
+            "account_number": "78542-991"
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer called about discrepancies in portfolio allocation.",
+                "primary_issue": "portfolio allocation",
+                "resolution_status": "pending",
+                "call_outcome": "callback_scheduled"
+            },
+            "transcript_segments": [
+                {
+                    "utterance_id": "1",
+                    "timestamp": "2023-10-01T10:00:00Z",
+                    "speaker": "agent",
+                    "text": "Thank you for calling Meridian Wealth Management. This is Sarah speaking. How may I assist you today?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "2",
+                    "timestamp": "2023-10-01T10:00:05Z",
+                    "speaker": "customer",
+                    "text": "Hi Sarah, um, this is Robert Chen. I'm calling about some discrepancies I noticed in my portfolio allocation.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "discrepancies",
+                        "portfolio allocation"
+                    ]
+                },
+                {
+                    "utterance_id": "3",
+                    "timestamp": "2023-10-01T10:00:15Z",
+                    "speaker": "agent",
+                    "text": "Of course, Mr. Chen. I'd be happy to help you with that. Could you please verify your account number and date of birth for security purposes?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "4",
+                    "timestamp": "2023-10-01T10:00:25Z",
+                    "speaker": "customer",
+                    "text": "Yeah, sure. Account number is 78542-991 and DOB is September 15, 1975.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "5",
+                    "timestamp": "2023-10-01T10:00:35Z",
+                    "speaker": "agent",
+                    "text": "Thank you for verifying that information. Now, could you tell me more about the discrepancies you've noticed?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "6",
+                    "timestamp": "2023-10-01T10:00:45Z",
+                    "speaker": "customer",
+                    "text": "Well, I checked my quarterly statement, and uh, I noticed that my international equity allocation is much higher than what I agreed to in my investment policy statement. It's showing 45% when it should be around 30%.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "international equity allocation",
+                        "investment policy statement"
+                    ]
+                },
+                {
+                    "utterance_id": "7",
+                    "timestamp": "2023-10-01T10:01:05Z",
+                    "speaker": "agent",
+                    "text": "I see. Let me pull up your investment policy statement... hmm, you're absolutely right. The target allocation for international equities is indeed 30%.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "8",
+                    "timestamp": "2023-10-01T10:01:25Z",
+                    "speaker": "customer",
+                    "text": "Right, and I'm concerned because the markets have been quite volatile lately.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "volatile markets"
+                    ]
+                },
+                {
+                    "utterance_id": "9",
+                    "timestamp": "2023-10-01T10:01:45Z",
+                    "speaker": "agent",
+                    "text": "I completely understand your concern, Mr. Chen. This definitely needs to be reviewed in detail. I'm looking at your account history now... ah, I see there was a rebalancing event in February.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "rebalancing event"
+                    ]
+                },
+                {
+                    "utterance_id": "10",
+                    "timestamp": "2023-10-01T10:02:05Z",
+                    "speaker": "customer",
+                    "text": "Yes, exactly. That's when I first noticed the change.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "11",
+                    "timestamp": "2023-10-01T10:02:25Z",
+                    "speaker": "agent",
+                    "text": "This will require a more thorough investigation with our portfolio management team. Would you be comfortable if I arrange for one of our senior portfolio managers to call you back within 24 hours?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "12",
+                    "timestamp": "2023-10-01T10:02:45Z",
+                    "speaker": "customer",
+                    "text": "Well, as long as it's actually within 24 hours. I've been worried about this.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "worried"
+                    ]
+                },
+                {
+                    "utterance_id": "13",
+                    "timestamp": "2023-10-01T10:03:05Z",
+                    "speaker": "agent",
+                    "text": "I absolutely understand. I'll make this a priority case. Can I confirm your preferred contact number is still 415-555-0123?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "14",
+                    "timestamp": "2023-10-01T10:03:25Z",
+                    "speaker": "customer",
+                    "text": "Yeah, that's correct. And I'm usually available after 2 PM Pacific time.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "15",
+                    "timestamp": "2023-10-01T10:03:45Z",
+                    "speaker": "agent",
+                    "text": "Perfect, I'll note that down. A portfolio manager will call you tomorrow afternoon to discuss this in detail. They'll have all the information about your account and the recent rebalancing ready to review with you.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "16",
+                    "timestamp": "2023-10-01T10:04:05Z",
+                    "speaker": "customer",
+                    "text": "Okay, thank you. I'll wait for their call then.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "17",
+                    "timestamp": "2023-10-01T10:04:25Z",
+                    "speaker": "agent",
+                    "text": "You're welcome, Mr. Chen. Is there anything else I can help you with today?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "18",
+                    "timestamp": "2023-10-01T10:04:45Z",
+                    "speaker": "customer",
+                    "text": "No, that's all for now. Thanks.",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "19",
+                    "timestamp": "2023-10-01T10:05:05Z",
+                    "speaker": "agent",
+                    "text": "Thank you for calling Meridian Wealth Management. Have a great day!",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "account_issue",
+                    "description": "portfolio allocation discrepancy"
+                },
+                {
+                    "type": "general_inquiry",
+                    "description": "market volatility"
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "follow_up_call",
+                "action_type": "callback",
+                "assigned_to": "portfolio management team",
+                "due_date": "2023-10-02T10:00:00Z",
+                "status": "open"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "negative"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "conversation_id": "3152010",
+            "customer_id": "C11116",
+            "timestamp": "2024-05-10T10:00:00Z",
+            "call_type": "inbound",
+            "participants": {
+                "customer": {
+                    "customer_name": "Laura Reeves",
+                    "account_type": "Checking accounts"
+                },
+                "agent": {
+                    "agent_name": "Brandon"
+                }
+            }
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer called about unexpected fees.",
+                "primary_issue": "unexpected fees",
+                "resolution_status": "resolved",
+                "call_outcome": "resolved"
+            },
+            "transcript_segments": [
+                {
+                    "utterance_id": "1",
+                    "timestamp": "2024-05-10T10:00:01Z",
+                    "speaker": "agent",
+                    "text": "Thank you for calling Cornerstone Wealth Management. This is Brandon speaking. How may I assist you today?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "2",
+                    "timestamp": "2024-05-10T10:00:05Z",
+                    "speaker": "customer",
+                    "text": "Hi Brandon, this is Laura Reeves. I'm calling about some unexpected fees that showed up on my statement this month.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "unexpected fees"
+                    ]
+                },
+                {
+                    "utterance_id": "3",
+                    "timestamp": "2024-05-10T10:00:15Z",
+                    "speaker": "agent",
+                    "text": "I'll be happy to help you with that, Ms. Reeves. First, could you please verify your account number and date of birth?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "4",
+                    "timestamp": "2024-05-10T10:00:25Z",
+                    "speaker": "customer",
+                    "text": "Sure, um, account number is 891-44726, and my birth date is July 12, 1982.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "5",
+                    "timestamp": "2024-05-10T10:00:35Z",
+                    "speaker": "agent",
+                    "text": "Thank you for verifying that. Could you tell me which fees you're concerned about?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "6",
+                    "timestamp": "2024-05-10T10:00:45Z",
+                    "speaker": "customer",
+                    "text": "Well, I'm looking at my February statement, and there's a $250 maintenance fee and a $175 trading fee. I've never seen these before, and uh, I thought I had a fee-waived account.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "maintenance fee",
+                        "trading fee"
+                    ]
+                },
+                {
+                    "utterance_id": "7",
+                    "timestamp": "2024-05-10T10:01:05Z",
+                    "speaker": "agent",
+                    "text": "Let me take a look at your account history... Yes, I see the fees you're referring to. You're correct - you should have fee waivers based on your account balance. Let me investigate why these were charged.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "8",
+                    "timestamp": "2024-05-10T10:01:25Z",
+                    "speaker": "customer",
+                    "text": "I maintain well over the minimum balance requirement, so I don't understand why this happened.",
+                    "sentiment": "negative",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "9",
+                    "timestamp": "2024-05-10T10:01:45Z",
+                    "speaker": "agent",
+                    "text": "I see what the issue is. There was a system update on February 1st, and it appears your fee waiver status wasn't properly carried over. This shouldn't have happened.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "system update"
+                    ]
+                },
+                {
+                    "utterance_id": "10",
+                    "timestamp": "2024-05-10T10:02:05Z",
+                    "speaker": "customer",
+                    "text": "Okay, so can you fix it?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "11",
+                    "timestamp": "2024-05-10T10:02:15Z",
+                    "speaker": "agent",
+                    "text": "Absolutely. I can reverse both fees right now, and I'll make sure your fee waiver status is properly reinstated. Would you like me to do that?",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "12",
+                    "timestamp": "2024-05-10T10:02:35Z",
+                    "speaker": "customer",
+                    "text": "Yes, please. And I want to make sure this doesn't happen again next month.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "13",
+                    "timestamp": "2024-05-10T10:02:55Z",
+                    "speaker": "agent",
+                    "text": "I understand. I'm processing the reversals now... Okay, both the $250 maintenance fee and $175 trading fee have been credited back to your account. You should see the credit within 24 hours.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "fee reversal"
+                    ]
+                },
+                {
+                    "utterance_id": "14",
+                    "timestamp": "2024-05-10T10:03:15Z",
+                    "speaker": "customer",
+                    "text": "That's good. But what about the fee waiver status?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "15",
+                    "timestamp": "2024-05-10T10:03:35Z",
+                    "speaker": "agent",
+                    "text": "I've just updated that in our system. I can see it's properly registered now. Let me also add a note to your account to prevent any similar issues in the future.",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "16",
+                    "timestamp": "2024-05-10T10:03:55Z",
+                    "speaker": "customer",
+                    "text": "Thank you. Will I get some kind of confirmation of this?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "17",
+                    "timestamp": "2024-05-10T10:04:15Z",
+                    "speaker": "agent",
+                    "text": "Yes, I'll send you an email confirmation of today's fee reversals and the restoration of your fee waiver status. Would you like me to include a copy of your updated fee schedule as well?",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "18",
+                    "timestamp": "2024-05-10T10:04:35Z",
+                    "speaker": "customer",
+                    "text": "Yes, that would be helpful. Just so I know what to expect going forward.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "19",
+                    "timestamp": "2024-05-10T10:04:55Z",
+                    "speaker": "agent",
+                    "text": "Of course. I'll include everything in the email. Is your email still lreeves@email.com?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "20",
+                    "timestamp": "2024-05-10T10:05:15Z",
+                    "speaker": "customer",
+                    "text": "Yes, that's correct.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "21",
+                    "timestamp": "2024-05-10T10:05:35Z",
+                    "speaker": "agent",
+                    "text": "Perfect. You'll receive the email within the next 15 minutes. I've also added a courtesy credit of $50 to your account for the inconvenience.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "courtesy credit"
+                    ]
+                },
+                {
+                    "utterance_id": "22",
+                    "timestamp": "2024-05-10T10:05:55Z",
+                    "speaker": "customer",
+                    "text": "Oh, thank you. I appreciate that.",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "23",
+                    "timestamp": "2024-05-10T10:06:15Z",
+                    "speaker": "agent",
+                    "text": "You're welcome. Is there anything else I can help you with today?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "24",
+                    "timestamp": "2024-05-10T10:06:35Z",
+                    "speaker": "customer",
+                    "text": "No, that's all. Thanks for fixing this so quickly.",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "25",
+                    "timestamp": "2024-05-10T10:06:55Z",
+                    "speaker": "agent",
+                    "text": "It's my pleasure. Thank you for bringing this to our attention, and please don't hesitate to call if you have any questions in the future.",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "26",
+                    "timestamp": "2024-05-10T10:07:15Z",
+                    "speaker": "customer",
+                    "text": "Will do. Have a good day.",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "27",
+                    "timestamp": "2024-05-10T10:07:35Z",
+                    "speaker": "agent",
+                    "text": "You too, Ms. Reeves. Goodbye.",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "account_issue",
+                    "description": "unexpected fees",
+                    "transaction_reference": {
+                        "amount": 425,
+                        "date": "2023-02-01",
+                        "account_last4": "4726"
+                    }
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "follow_up_call",
+                "action_type": "callback",
+                "assigned_to": "Brandon",
+                "due_date": "2024-05-10T10:15:00Z",
+                "status": "completed"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "positive"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "conversation_id": "3152002",
+            "customer_id": "C101",
+            "timestamp": "2023-10-03T10:00:00Z",
+            "call_type": "outbound",
+            "participants": {
+                "customer": {
+                    "customer_name": "Robert Chen",
+                    "account_type": "Investment accounts"
+                },
+                "agent": {
+                    "agent_name": "Michael Thompson"
+                }
+            }
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Discussion about portfolio allocation issue and correction process.",
+                "primary_issue": "allocation concern",
+                "resolution_status": "pending",
+                "call_outcome": "callback_scheduled"
+            },
+            "transcript_segments": [
+                {
+                    "utterance_id": "1",
+                    "timestamp": "2023-10-03T10:00:00Z",
+                    "speaker": "agent",
+                    "text": "Hello, Mr. Chen. This is Michael Thompson, Senior Portfolio Manager at Meridian Wealth Management. I'm calling regarding your portfolio allocation concern.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "portfolio allocation"
+                    ]
+                },
+                {
+                    "utterance_id": "2",
+                    "timestamp": "2023-10-03T10:00:05Z",
+                    "speaker": "customer",
+                    "text": "Oh yes, thank you for calling back. Have you had a chance to look into the issue?",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "issue review"
+                    ]
+                },
+                {
+                    "utterance_id": "3",
+                    "timestamp": "2023-10-03T10:00:10Z",
+                    "speaker": "agent",
+                    "text": "Yes, I have. I've reviewed your account thoroughly. The discrepancy occurred during our February rebalancing when a trading algorithm misinterpreted your investment parameters.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "discrepancy",
+                        "February rebalancing"
+                    ]
+                },
+                {
+                    "utterance_id": "4",
+                    "timestamp": "2023-10-03T10:00:20Z",
+                    "speaker": "customer",
+                    "text": "Um, okay... but how did that happen? And more importantly, how do we fix it?",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "fix issue"
+                    ]
+                },
+                {
+                    "utterance_id": "5",
+                    "timestamp": "2023-10-03T10:00:30Z",
+                    "speaker": "agent",
+                    "text": "Well, we recently upgraded our portfolio management software, and there was a coding error that affected a small number of accounts, including yours. I've already initiated the correction process.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "coding error",
+                        "correction process"
+                    ]
+                },
+                {
+                    "utterance_id": "6",
+                    "timestamp": "2023-10-03T10:00:50Z",
+                    "speaker": "customer",
+                    "text": "And how long will that take? Because, you know, every day matters with these market conditions.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "time frame"
+                    ]
+                },
+                {
+                    "utterance_id": "7",
+                    "timestamp": "2023-10-03T10:01:00Z",
+                    "speaker": "agent",
+                    "text": "I completely understand. The rebalancing will take 3-5 business days to complete. However, given this was our error, we'll need to conduct a loss analysis to ensure you haven't been negatively impacted.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "loss analysis",
+                        "3-5 business days"
+                    ]
+                },
+                {
+                    "utterance_id": "8",
+                    "timestamp": "2023-10-03T10:01:30Z",
+                    "speaker": "customer",
+                    "text": "Loss analysis? So there might be losses due to this mistake?",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "potential losses"
+                    ]
+                },
+                {
+                    "utterance_id": "9",
+                    "timestamp": "2023-10-03T10:01:50Z",
+                    "speaker": "agent",
+                    "text": "It's standard procedure in these situations to analyze any potential impact. I'll have our risk assessment team review the performance differential between your intended allocation and the current one.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "performance differential"
+                    ]
+                },
+                {
+                    "utterance_id": "10",
+                    "timestamp": "2023-10-03T10:02:10Z",
+                    "speaker": "customer",
+                    "text": "Right... and when will I know about that?",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "follow-up timing"
+                    ]
+                },
+                {
+                    "utterance_id": "11",
+                    "timestamp": "2023-10-03T10:02:30Z",
+                    "speaker": "agent",
+                    "text": "The analysis should be complete by early next week. Would it be alright if I call you next Wednesday with the full report?",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "full report"
+                    ]
+                },
+                {
+                    "utterance_id": "12",
+                    "timestamp": "2023-10-03T10:02:50Z",
+                    "speaker": "customer",
+                    "text": "I guess I don't have much choice. But yes, Wednesday works.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "callback confirmation"
+                    ]
+                },
+                {
+                    "utterance_id": "13",
+                    "timestamp": "2023-10-03T10:03:10Z",
+                    "speaker": "agent",
+                    "text": "I understand your frustration, Mr. Chen. I'll make sure to have comprehensive information for you then. Is afternoon still the best time to reach you?",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "frustration acknowledgment"
+                    ]
+                },
+                {
+                    "utterance_id": "14",
+                    "timestamp": "2023-10-03T10:03:30Z",
+                    "speaker": "customer",
+                    "text": "Yeah, after 2 PM Pacific is fine.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "best time"
+                    ]
+                },
+                {
+                    "utterance_id": "15",
+                    "timestamp": "2023-10-03T10:03:50Z",
+                    "speaker": "agent",
+                    "text": "Perfect. I'll call you Wednesday afternoon with the complete analysis and confirmation that the rebalancing is complete.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "complete analysis"
+                    ]
+                },
+                {
+                    "utterance_id": "16",
+                    "timestamp": "2023-10-03T10:04:10Z",
+                    "speaker": "customer",
+                    "text": "Okay, thanks for looking into this.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "appreciation"
+                    ]
+                },
+                {
+                    "utterance_id": "17",
+                    "timestamp": "2023-10-03T10:04:30Z",
+                    "speaker": "agent",
+                    "text": "Of course. Is there anything else you'd like me to address when I call back?",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "additional concerns"
+                    ]
+                },
+                {
+                    "utterance_id": "18",
+                    "timestamp": "2023-10-03T10:04:50Z",
+                    "speaker": "customer",
+                    "text": "No, just the allocation fix and any potential losses.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "allocation fix",
+                        "potential losses"
+                    ]
+                },
+                {
+                    "utterance_id": "19",
+                    "timestamp": "2023-10-03T10:05:10Z",
+                    "speaker": "agent",
+                    "text": "Understood. I'll speak with you on Wednesday. Have a good day, Mr. Chen.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "goodbye"
+                    ]
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "account_issue",
+                    "description": "allocation concern"
+                },
+                {
+                    "type": "transaction_dispute",
+                    "description": "potential losses"
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "follow_up_call",
+                "action_type": "callback",
+                "assigned_to": "Michael Thompson",
+                "due_date": "2023-10-04T14:00:00Z",
+                "status": "open"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "neutral"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "conversation_id": "3152003",
+            "customer_id": "C101",
+            "timestamp": "2023-10-05T14:30:00Z",
+            "call_type": "outbound",
+            "participants": {
+                "customer": {
+                    "customer_name": "Robert Chen",
+                    "account_type": "Investment accounts"
+                },
+                "agent": {
+                    "agent_name": "Michael Thompson"
+                }
+            }
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Discussion about portfolio rebalancing and transfer process.",
+                "primary_issue": "portfolio transfer",
+                "resolution_status": "resolved",
+                "call_outcome": "resolved"
+            },
+            "transcript_segments": [
+                {
+                    "utterance_id": "1",
+                    "timestamp": "2023-10-05T14:30:00Z",
+                    "speaker": "agent",
+                    "text": "Good afternoon, Mr. Chen. This is Michael Thompson from Meridian Wealth Management calling back regarding your portfolio.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "portfolio",
+                        "call back"
+                    ]
+                },
+                {
+                    "utterance_id": "2",
+                    "timestamp": "2023-10-05T14:30:05Z",
+                    "speaker": "customer",
+                    "text": "Hi Michael. It's been a week since we were supposed to talk. I've been waiting for your call.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "waiting",
+                        "call"
+                    ]
+                },
+                {
+                    "utterance_id": "3",
+                    "timestamp": "2023-10-05T14:30:10Z",
+                    "speaker": "agent",
+                    "text": "I sincerely apologize for the delay, Mr. Chen. We encountered some additional complications during the rebalancing process.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "delay",
+                        "complications"
+                    ]
+                },
+                {
+                    "utterance_id": "4",
+                    "timestamp": "2023-10-05T14:30:15Z",
+                    "speaker": "customer",
+                    "text": "What complications? This is getting ridiculous.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "complications",
+                        "ridiculous"
+                    ]
+                },
+                {
+                    "utterance_id": "5",
+                    "timestamp": "2023-10-05T14:30:20Z",
+                    "speaker": "agent",
+                    "text": "I understand your frustration. When we attempted to rebalance your portfolio, we discovered that some of the international equity positions had trading restrictions that weren't immediately apparent.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "rebalance",
+                        "trading restrictions"
+                    ]
+                },
+                {
+                    "utterance_id": "6",
+                    "timestamp": "2023-10-05T14:30:25Z",
+                    "speaker": "customer",
+                    "text": "What? What does that even mean for my money?",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "money",
+                        "trading restrictions"
+                    ]
+                },
+                {
+                    "utterance_id": "7",
+                    "timestamp": "2023-10-05T14:30:30Z",
+                    "speaker": "agent",
+                    "text": "Some of the funds in your portfolio have specific trading windows and holding period requirements. Breaking these could result in significant penalties.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "trading windows",
+                        "penalties"
+                    ]
+                },
+                {
+                    "utterance_id": "8",
+                    "timestamp": "2023-10-05T14:30:35Z",
+                    "speaker": "customer",
+                    "text": "This is... this is unacceptable. I've been waiting for almost two weeks now, and you're telling me there are more problems?",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "unacceptable",
+                        "waiting"
+                    ]
+                },
+                {
+                    "utterance_id": "9",
+                    "timestamp": "2023-10-05T14:30:40Z",
+                    "speaker": "agent",
+                    "text": "I apologize, Mr. Chen. We can proceed with the rebalancing, but it would need to be done gradually over the next month to avoid penalties.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "rebalancing",
+                        "gradually"
+                    ]
+                },
+                {
+                    "utterance_id": "10",
+                    "timestamp": "2023-10-05T14:30:45Z",
+                    "speaker": "customer",
+                    "text": "A month? No. No, I'm sorry, but I've lost confidence in how my account is being managed. I want to move my assets to another firm.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "lost confidence",
+                        "move assets"
+                    ]
+                },
+                {
+                    "utterance_id": "11",
+                    "timestamp": "2023-10-05T14:30:50Z",
+                    "speaker": "agent",
+                    "text": "I completely understand your position, Mr. Chen. While we would hate to lose you as a client, I can help initiate the transfer process if that's your decision.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "transfer process",
+                        "client"
+                    ]
+                },
+                {
+                    "utterance_id": "12",
+                    "timestamp": "2023-10-05T14:30:55Z",
+                    "speaker": "customer",
+                    "text": "Yes, that's what I want. I already have another advisor lined up.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "transfer",
+                        "advisor"
+                    ]
+                },
+                {
+                    "utterance_id": "13",
+                    "timestamp": "2023-10-05T14:31:00Z",
+                    "speaker": "agent",
+                    "text": "I understand. I'll have our account closure team prepare the necessary documentation. They'll need your new account information to process the transfer.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "account closure",
+                        "documentation"
+                    ]
+                },
+                {
+                    "utterance_id": "14",
+                    "timestamp": "2023-10-05T14:31:05Z",
+                    "speaker": "customer",
+                    "text": "Fine. Can you email me the forms?",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "email",
+                        "forms"
+                    ]
+                },
+                {
+                    "utterance_id": "15",
+                    "timestamp": "2023-10-05T14:31:10Z",
+                    "speaker": "agent",
+                    "text": "Yes, I'll send those to your registered email address right away. The forms will include instructions for providing the receiving account information.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "send",
+                        "instructions"
+                    ]
+                },
+                {
+                    "utterance_id": "16",
+                    "timestamp": "2023-10-05T14:31:15Z",
+                    "speaker": "customer",
+                    "text": "Okay. Just... just send everything I need to sign.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "send",
+                        "sign"
+                    ]
+                },
+                {
+                    "utterance_id": "17",
+                    "timestamp": "2023-10-05T14:31:20Z",
+                    "speaker": "agent",
+                    "text": "I will. Again, Mr. Chen, I sincerely apologize for how this situation was handled. You should receive the transfer forms within the hour.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "apologize",
+                        "transfer forms"
+                    ]
+                },
+                {
+                    "utterance_id": "18",
+                    "timestamp": "2023-10-05T14:31:25Z",
+                    "speaker": "customer",
+                    "text": "Thanks. I'll submit them as soon as possible.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "submit",
+                        "forms"
+                    ]
+                },
+                {
+                    "utterance_id": "19",
+                    "timestamp": "2023-10-05T14:31:30Z",
+                    "speaker": "agent",
+                    "text": "Is there anything else you need assistance with today?",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "assistance",
+                        "today"
+                    ]
+                },
+                {
+                    "utterance_id": "20",
+                    "timestamp": "2023-10-05T14:31:35Z",
+                    "speaker": "customer",
+                    "text": "No, that's all. Goodbye.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "goodbye",
+                        "all"
+                    ]
+                }
+            ],
+            "key_points": {
+                "customer_concerns": [
+                    {
+                        "type": "account_issue",
+                        "description": "portfolio management"
+                    },
+                    {
+                        "type": "account_issue",
+                        "description": "transfer process"
+                    }
+                ]
+            },
+            "action_items": [
+                {
+                    "type": "internal_escalation",
+                    "action_type": "issue_resolution",
+                    "assigned_to": "account closure team",
+                    "due_date": "2023-10-05T15:00:00Z",
+                    "status": "open"
+                }
+            ],
+            "analytics": {
+                "overall_sentiment": "negative"
+            }
+        }
+    },
+    {
+        "conversation_metadata": {
+            "conversation_id": "3152004",
+            "customer_id": "C212",
+            "timestamp": "2023-10-01T10:00:00Z",
+            "call_type": "inbound",
+            "participants": {
+                "customer": {
+                    "customer_name": "Amanda Torres",
+                    "account_type": "Checking accounts"
+                },
+                "agent": {
+                    "agent_name": "Jessica"
+                }
+            }
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer faced issues executing trades on the platform due to technical difficulties.",
+                "primary_issue": "trading issues",
+                "resolution_status": "resolved",
+                "call_outcome": "resolved"
+            },
+            "transcript_segments": [
+                {
+                    "utterance_id": "1",
+                    "timestamp": "2023-10-01T10:00:00Z",
+                    "speaker": "agent",
+                    "text": "Good morning, this is Jessica with Capital Bridge Securities. How can I help you today?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "2",
+                    "timestamp": "2023-10-01T10:00:05Z",
+                    "speaker": "customer",
+                    "text": "Hi Jessica, this is Amanda Torres. Um, I'm calling because I've been having issues executing trades on your platform all morning.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "trading issues"
+                    ]
+                },
+                {
+                    "utterance_id": "3",
+                    "timestamp": "2023-10-01T10:00:15Z",
+                    "speaker": "agent",
+                    "text": "I'm sorry to hear that, Ms. Torres. Let me verify your account information first. Could you please provide your account number and the last four digits of your SSN?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "4",
+                    "timestamp": "2023-10-01T10:00:30Z",
+                    "speaker": "customer",
+                    "text": "Sure, it's 334991-02, and last four are 7843.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "5",
+                    "timestamp": "2023-10-01T10:00:40Z",
+                    "speaker": "agent",
+                    "text": "Thank you for verifying that. Could you tell me more about the issues you're experiencing with the trading platform?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "6",
+                    "timestamp": "2023-10-01T10:00:50Z",
+                    "speaker": "customer",
+                    "text": "Well, I've been trying to place several trades since the market opened, and uh, keep getting error messages. It's really frustrating because I'm missing opportunities here.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "error messages"
+                    ]
+                },
+                {
+                    "utterance_id": "7",
+                    "timestamp": "2023-10-01T10:01:10Z",
+                    "speaker": "agent",
+                    "text": "I understand your frustration. We did experience some technical difficulties this morning due to unusually high trading volume. What specific error message are you seeing?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "8",
+                    "timestamp": "2023-10-01T10:01:30Z",
+                    "speaker": "customer",
+                    "text": "It says \"Order cannot be processed at this time\" and sometimes it just freezes completely.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "Order cannot be processed"
+                    ]
+                },
+                {
+                    "utterance_id": "9",
+                    "timestamp": "2023-10-01T10:01:50Z",
+                    "speaker": "agent",
+                    "text": "I apologize for this inconvenience. Let me check our system status... I can see that our tech team is actively working on resolving these issues. Have you tried using our mobile app as an alternative?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "10",
+                    "timestamp": "2023-10-01T10:02:10Z",
+                    "speaker": "customer",
+                    "text": "Yeah, same problem there. Look, I need to make these trades today. This is affecting my portfolio.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "affecting my portfolio"
+                    ]
+                },
+                {
+                    "utterance_id": "11",
+                    "timestamp": "2023-10-01T10:02:30Z",
+                    "speaker": "agent",
+                    "text": "I completely understand. I can help you place the trades directly through me right now. Would you like to do that?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "12",
+                    "timestamp": "2023-10-01T10:02:50Z",
+                    "speaker": "customer",
+                    "text": "I guess so... but this isn't the first time I've had problems with the platform. What's being done to prevent this?",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "problems with the platform"
+                    ]
+                },
+                {
+                    "utterance_id": "13",
+                    "timestamp": "2023-10-01T10:03:10Z",
+                    "speaker": "agent",
+                    "text": "We're currently upgrading our trading infrastructure to handle higher volumes. We expect the improvements to be completed within two weeks. Now, what trades would you like to place?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "14",
+                    "timestamp": "2023-10-01T10:03:30Z",
+                    "speaker": "customer",
+                    "text": "Alright, I need to sell 200 shares of NVDA and buy 150 shares of MSFT.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "sell NVDA",
+                        "buy MSFT"
+                    ]
+                },
+                {
+                    "utterance_id": "15",
+                    "timestamp": "2023-10-01T10:03:50Z",
+                    "speaker": "agent",
+                    "text": "I'll help you with those trades right away. Just to confirm - selling 200 shares of NVIDIA and buying 150 shares of Microsoft at market price?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "16",
+                    "timestamp": "2023-10-01T10:04:10Z",
+                    "speaker": "customer",
+                    "text": "Yes, that's correct.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "17",
+                    "timestamp": "2023-10-01T10:04:30Z",
+                    "speaker": "agent",
+                    "text": "Perfect. I've executed both trades for you. Would you like me to email you the confirmation details?",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "18",
+                    "timestamp": "2023-10-01T10:04:50Z",
+                    "speaker": "customer",
+                    "text": "Yes, please. And I really hope these platform issues get fixed soon.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "platform issues"
+                    ]
+                },
+                {
+                    "utterance_id": "19",
+                    "timestamp": "2023-10-01T10:05:10Z",
+                    "speaker": "agent",
+                    "text": "I understand. I'll send the confirmation right away, and I'm noting your concerns about the platform in our system. Is there anything else I can help you with?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "20",
+                    "timestamp": "2023-10-01T10:05:30Z",
+                    "speaker": "customer",
+                    "text": "No, that's all for now. Thank you.",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "account_issue",
+                    "description": "trading issues"
+                },
+                {
+                    "type": "general_inquiry",
+                    "description": "platform issues"
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "follow_up_call",
+                "action_type": "issue_resolution",
+                "assigned_to": "Jessica",
+                "due_date": "2023-10-01T10:06:00Z",
+                "status": "completed"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "negative"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "conversation_id": "3152005",
+            "customer_id": "C212",
+            "timestamp": "2023-10-03T10:00:00Z",
+            "call_type": "inbound",
+            "participants": {
+                "customer": {
+                    "customer_name": "Amanda Torres",
+                    "account_type": "Checking accounts"
+                },
+                "agent": {
+                    "agent_name": "Marcus"
+                }
+            }
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer experiencing ongoing issues with trading platform.",
+                "primary_issue": "platform issues",
+                "resolution_status": "pending",
+                "call_outcome": "callback_scheduled"
+            },
+            "transcript_segments": [
+                {
+                    "utterance_id": "1",
+                    "timestamp": "2023-10-03T10:00:00Z",
+                    "speaker": "agent",
+                    "text": "Thank you for calling Capital Bridge Securities. This is Marcus speaking. How may I assist you?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "2",
+                    "timestamp": "2023-10-03T10:00:05Z",
+                    "speaker": "customer",
+                    "text": "Hi Marcus, this is Amanda Torres again. I'm having the exact same problems with the trading platform that I reported two weeks ago.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "trading platform issues"
+                    ]
+                },
+                {
+                    "utterance_id": "3",
+                    "timestamp": "2023-10-03T10:00:15Z",
+                    "speaker": "agent",
+                    "text": "I apologize, Ms. Torres. Let me verify your information first. Could you provide your account number?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "4",
+                    "timestamp": "2023-10-03T10:00:25Z",
+                    "speaker": "customer",
+                    "text": "It's 334991-02. I was told the platform issues would be fixed by now.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "platform issues"
+                    ]
+                },
+                {
+                    "utterance_id": "5",
+                    "timestamp": "2023-10-03T10:00:35Z",
+                    "speaker": "agent",
+                    "text": "Thank you for verifying that. I'm looking at your account history and previous case... I see you spoke with Jessica about this issue on February 8th.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "6",
+                    "timestamp": "2023-10-03T10:00:50Z",
+                    "speaker": "customer",
+                    "text": "Yes, and I was explicitly told the upgrade would be completed within two weeks. I just lost out on another trading opportunity because your system froze.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "trading opportunity",
+                        "system froze"
+                    ]
+                },
+                {
+                    "utterance_id": "7",
+                    "timestamp": "2023-10-03T10:01:10Z",
+                    "speaker": "agent",
+                    "text": "I sincerely apologize for this continued inconvenience. The upgrade has taken longer than initially estimated due to some unexpected complications.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "8",
+                    "timestamp": "2023-10-03T10:01:30Z",
+                    "speaker": "customer",
+                    "text": "This is completely unacceptable. I'm paying significant fees for a service that doesn't work reliably. How much longer is this going to take?",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "unacceptable service",
+                        "significant fees"
+                    ]
+                },
+                {
+                    "utterance_id": "9",
+                    "timestamp": "2023-10-03T10:01:50Z",
+                    "speaker": "agent",
+                    "text": "I understand your frustration. The latest update from our tech team indicates the upgrade should be completed by the end of next week...",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "10",
+                    "timestamp": "2023-10-03T10:02:10Z",
+                    "speaker": "customer",
+                    "text": "No, I've heard that before. I think I need to start looking at other brokerages. This is affecting my ability to manage my investments.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "other brokerages",
+                        "manage investments"
+                    ]
+                },
+                {
+                    "utterance_id": "11",
+                    "timestamp": "2023-10-03T10:02:30Z",
+                    "speaker": "agent",
+                    "text": "I completely understand your position, Ms. Torres. While we would very much like to retain your business, I can help you initiate an account transfer if that's what you'd prefer.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "12",
+                    "timestamp": "2023-10-03T10:02:50Z",
+                    "speaker": "customer",
+                    "text": "Yes, I think that's best. I already have an account with another firm.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "account transfer"
+                    ]
+                },
+                {
+                    "utterance_id": "13",
+                    "timestamp": "2023-10-03T10:03:10Z",
+                    "speaker": "agent",
+                    "text": "I understand. I'll prepare the transfer forms for you right away. Would you like me to email them to your registered address?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "14",
+                    "timestamp": "2023-10-03T10:03:30Z",
+                    "speaker": "customer",
+                    "text": "Yes, please. And please include instructions for closing the account entirely once the transfer is complete.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "closing account"
+                    ]
+                },
+                {
+                    "utterance_id": "15",
+                    "timestamp": "2023-10-03T10:03:50Z",
+                    "speaker": "agent",
+                    "text": "Of course. You'll receive the forms within the next hour. They'll include both transfer and closure instructions. Is there anything else you need assistance with?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "16",
+                    "timestamp": "2023-10-03T10:04:10Z",
+                    "speaker": "customer",
+                    "text": "No, just send the forms. Thank you for your help, Marcus.",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "17",
+                    "timestamp": "2023-10-03T10:04:30Z",
+                    "speaker": "agent",
+                    "text": "You're welcome, Ms. Torres. Again, I apologize for the inconvenience you've experienced. You'll receive the forms shortly.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                }
+            ],
+            "key_points": {
+                "customer_concerns": [
+                    {
+                        "type": "account_issue",
+                        "description": "trading platform issues"
+                    },
+                    {
+                        "type": "general_inquiry",
+                        "description": "account transfer"
+                    }
+                ]
+            },
+            "action_items": [
+                {
+                    "type": "follow_up_call",
+                    "action_type": "callback",
+                    "assigned_to": "Marcus",
+                    "due_date": "2023-10-03T10:05:00Z",
+                    "status": "open"
+                }
+            ],
+            "analytics": {
+                "overall_sentiment": "negative"
+            }
+        }
+    },
+    {
+        "conversation_metadata": {
+            "conversation_id": "3152006",
+            "customer_id": "C007",
+            "timestamp": "2023-11-12T14:00:00Z",
+            "call_type": "inbound",
+            "participants": {
+                "customer": {
+                    "customer_name": "James Wilson",
+                    "account_type": "Savings accounts"
+                },
+                "agent": {
+                    "agent_name": "David"
+                }
+            }
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer inquired about 401(k) rollover issue.",
+                "primary_issue": "rollover",
+                "resolution_status": "pending",
+                "call_outcome": "callback_scheduled"
+            },
+            "transcript_segments": [
+                {
+                    "utterance_id": "1",
+                    "timestamp": "2023-11-12T14:00:00Z",
+                    "speaker": "agent",
+                    "text": "Good afternoon, you've reached Pinnacle Retirement Solutions. This is David speaking. How may I help you?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "2",
+                    "timestamp": "2023-11-12T14:00:05Z",
+                    "speaker": "customer",
+                    "text": "Hi David, um, I'm James Wilson. I've been trying to roll over my old 401(k) to my current employer's plan, but something seems wrong with the transfer.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "401(k) rollover",
+                        "transfer issue"
+                    ]
+                },
+                {
+                    "utterance_id": "3",
+                    "timestamp": "2023-11-12T14:00:15Z",
+                    "speaker": "agent",
+                    "text": "I'll be happy to help you with that, Mr. Wilson. First, could you verify your account number and the last four digits of your Social Security number?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "4",
+                    "timestamp": "2023-11-12T14:00:25Z",
+                    "speaker": "customer",
+                    "text": "Sure, account number is 445-77902, and last four are 4432.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "5",
+                    "timestamp": "2023-11-12T14:00:35Z",
+                    "speaker": "agent",
+                    "text": "Thank you for verifying that. Now, could you tell me more about the issue you're experiencing with the rollover?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "6",
+                    "timestamp": "2023-11-12T14:00:45Z",
+                    "speaker": "customer",
+                    "text": "Well, I initiated the transfer two weeks ago, and uh, the money left my old account but hasn't shown up in my new one. I'm getting a bit worried.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "transfer initiated",
+                        "money missing"
+                    ]
+                },
+                {
+                    "utterance_id": "7",
+                    "timestamp": "2023-11-12T14:01:00Z",
+                    "speaker": "agent",
+                    "text": "I understand your concern. Let me check the status of your transfer... I see the rollover was initiated on January 14th. Could you provide the account number for your new employer's plan?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "8",
+                    "timestamp": "2023-11-12T14:01:15Z",
+                    "speaker": "customer",
+                    "text": "Yeah, it's, uh... 889-22456 with Fidelity.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "9",
+                    "timestamp": "2023-11-12T14:01:30Z",
+                    "speaker": "agent",
+                    "text": "Thank you. I can see that the transfer was processed on our end, but... ah, there seems to be a discrepancy in the receiving account information.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "discrepancy",
+                        "receiving account"
+                    ]
+                },
+                {
+                    "utterance_id": "10",
+                    "timestamp": "2023-11-12T14:01:45Z",
+                    "speaker": "customer",
+                    "text": "What do you mean? I double-checked all the numbers when I submitted the forms.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "double-checked",
+                        "submitted forms"
+                    ]
+                },
+                {
+                    "utterance_id": "11",
+                    "timestamp": "2023-11-12T14:02:00Z",
+                    "speaker": "agent",
+                    "text": "I'm looking at the details now, and it appears there was an issue with the plan sponsor code. This sometimes happens with employer plans. I'll need to contact Fidelity to verify the correct coding.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "plan sponsor code",
+                        "contact Fidelity"
+                    ]
+                },
+                {
+                    "utterance_id": "12",
+                    "timestamp": "2023-11-12T14:02:15Z",
+                    "speaker": "customer",
+                    "text": "How long is that going to take? This is my retirement money we're talking about.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "retirement money",
+                        "how long"
+                    ]
+                },
+                {
+                    "utterance_id": "13",
+                    "timestamp": "2023-11-12T14:02:30Z",
+                    "speaker": "agent",
+                    "text": "I completely understand. I'll make this a priority case. I should have an update from Fidelity within 24-48 hours. Would it be okay if I call you back once I have more information?",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "priority case",
+                        "call back"
+                    ]
+                },
+                {
+                    "utterance_id": "14",
+                    "timestamp": "2023-11-12T14:02:45Z",
+                    "speaker": "customer",
+                    "text": "Yes, please do. This is making me nervous.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "making me nervous"
+                    ]
+                },
+                {
+                    "utterance_id": "15",
+                    "timestamp": "2023-11-12T14:03:00Z",
+                    "speaker": "agent",
+                    "text": "I assure you your funds are secure, Mr. Wilson. Can I confirm your preferred contact number is still 608-555-0179?",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "funds secure",
+                        "confirm contact"
+                    ]
+                },
+                {
+                    "utterance_id": "16",
+                    "timestamp": "2023-11-12T14:03:15Z",
+                    "speaker": "customer",
+                    "text": "Yes, that's correct. I'm usually available in the afternoons.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "17",
+                    "timestamp": "2023-11-12T14:03:30Z",
+                    "speaker": "agent",
+                    "text": "Perfect. I'll call you back within two business days with an update. In the meantime, I'm noting this as an urgent case in our system.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "urgent case",
+                        "call back"
+                    ]
+                },
+                {
+                    "utterance_id": "18",
+                    "timestamp": "2023-11-12T14:03:45Z",
+                    "speaker": "customer",
+                    "text": "Okay, thank you. I really hope we can get this sorted out quickly.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "sorted out quickly"
+                    ]
+                },
+                {
+                    "utterance_id": "19",
+                    "timestamp": "2023-11-12T14:04:00Z",
+                    "speaker": "agent",
+                    "text": "We will, Mr. Wilson. Is there anything else I can help you with today?",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "20",
+                    "timestamp": "2023-11-12T14:04:15Z",
+                    "speaker": "customer",
+                    "text": "No, that's all. Just please make sure to call me back.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "21",
+                    "timestamp": "2023-11-12T14:04:30Z",
+                    "speaker": "agent",
+                    "text": "I certainly will. Thank you for your patience, and have a good day.",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "22",
+                    "timestamp": "2023-11-12T14:04:45Z",
+                    "speaker": "customer",
+                    "text": "Goodbye.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "account_issue",
+                    "description": "401(k) rollover issue",
+                    "transaction_reference": {
+                        "amount": 0,
+                        "date": "2023-01-14",
+                        "account_last4": "4432"
+                    }
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "follow_up_call",
+                "action_type": "callback",
+                "assigned_to": "David",
+                "due_date": "2023-10-03T14:00:00Z",
+                "status": "open"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "negative"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "conversation_id": "3152007",
+            "customer_id": "C007",
+            "timestamp": "2023-11-12T10:00:00Z",
+            "call_type": "outbound",
+            "participants": {
+                "customer": {
+                    "customer_name": "James Wilson",
+                    "account_type": "Savings accounts"
+                },
+                "agent": {
+                    "agent_name": "David"
+                }
+            }
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Discussion about 401(k) rollover issue resolution.",
+                "primary_issue": "401(k) rollover",
+                "resolution_status": "resolved",
+                "call_outcome": "resolved"
+            },
+            "transcript_segments": [
+                {
+                    "utterance_id": "1",
+                    "timestamp": "2023-11-12T10:00:00Z",
+                    "speaker": "agent",
+                    "text": "Hello, Mr. Wilson. This is David calling back from Pinnacle Retirement Solutions regarding your 401(k) rollover.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "401(k) rollover"
+                    ]
+                },
+                {
+                    "utterance_id": "2",
+                    "timestamp": "2023-11-12T10:00:05Z",
+                    "speaker": "customer",
+                    "text": "Oh yes, David. Thank you for calling back. Were you able to figure out what's wrong?",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "issue resolution"
+                    ]
+                },
+                {
+                    "utterance_id": "3",
+                    "timestamp": "2023-11-12T10:00:10Z",
+                    "speaker": "agent",
+                    "text": "Yes, I have good news. I worked with Fidelity and identified the issue. The plan sponsor code needed an additional prefix specific to your employer's plan.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "plan sponsor code"
+                    ]
+                },
+                {
+                    "utterance_id": "4",
+                    "timestamp": "2023-11-12T10:00:20Z",
+                    "speaker": "customer",
+                    "text": "Okay... has it been fixed?",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "fix status"
+                    ]
+                },
+                {
+                    "utterance_id": "5",
+                    "timestamp": "2023-11-12T10:00:25Z",
+                    "speaker": "agent",
+                    "text": "Yes, we've corrected the code and resubmitted the transfer. I can confirm that Fidelity has received and processed it. The funds should appear in your account by tomorrow morning.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "transfer processed"
+                    ]
+                },
+                {
+                    "utterance_id": "6",
+                    "timestamp": "2023-11-12T10:00:40Z",
+                    "speaker": "customer",
+                    "text": "That's great news. Will I need to do anything on my end?",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "next steps"
+                    ]
+                },
+                {
+                    "utterance_id": "7",
+                    "timestamp": "2023-11-12T10:00:45Z",
+                    "speaker": "agent",
+                    "text": "No, everything has been handled. But I'd recommend checking your Fidelity account tomorrow to verify the transfer. The amount should be $147,892.45.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "amount verification"
+                    ]
+                },
+                {
+                    "utterance_id": "8",
+                    "timestamp": "2023-11-12T10:01:00Z",
+                    "speaker": "customer",
+                    "text": "Yeah, that's the correct amount. Thank you for following up on this so quickly.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "appreciation"
+                    ]
+                },
+                {
+                    "utterance_id": "9",
+                    "timestamp": "2023-11-12T10:01:10Z",
+                    "speaker": "agent",
+                    "text": "You're welcome. I've also added a note to your file about the correct plan sponsor code in case you need to do any future transfers.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "note added"
+                    ]
+                },
+                {
+                    "utterance_id": "10",
+                    "timestamp": "2023-11-12T10:01:20Z",
+                    "speaker": "customer",
+                    "text": "That's helpful. I was really worried when the money seemed to disappear into thin air.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "money concern"
+                    ]
+                },
+                {
+                    "utterance_id": "11",
+                    "timestamp": "2023-11-12T10:01:30Z",
+                    "speaker": "agent",
+                    "text": "I completely understand. Rest assured, your funds were secure throughout the process. Is there anything else you'd like me to explain about the transfer?",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "fund security"
+                    ]
+                },
+                {
+                    "utterance_id": "12",
+                    "timestamp": "2023-11-12T10:01:45Z",
+                    "speaker": "customer",
+                    "text": "No, I think I'm good now. Thanks for sorting this out.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "satisfaction"
+                    ]
+                },
+                {
+                    "utterance_id": "13",
+                    "timestamp": "2023-11-12T10:01:55Z",
+                    "speaker": "agent",
+                    "text": "You're welcome, Mr. Wilson. Please don't hesitate to call if you need any further assistance. Have a great day!",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "assistance offer"
+                    ]
+                },
+                {
+                    "utterance_id": "14",
+                    "timestamp": "2023-11-12T10:02:05Z",
+                    "speaker": "customer",
+                    "text": "You too, Thank you, goodbye.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "goodbye"
+                    ]
+                }
+            ],
+            "key_points": {
+                "customer_concerns": [
+                    {
+                        "type": "general_inquiry",
+                        "description": "401(k) rollover issue"
+                    },
+                    {
+                        "type": "general_inquiry",
+                        "description": "money security concern"
+                    }
+                ]
+            },
+            "action_items": [
+                {
+                    "type": "follow_up_call",
+                    "action_type": "issue_resolution",
+                    "assigned_to": "David",
+                    "due_date": "2023-10-02T10:00:00Z",
+                    "status": "completed"
+                }
+            ],
+            "analytics": {
+                "overall_sentiment": "positive"
+            }
+        }
+    },
+    {
+        "conversation_metadata": {
+            "conversation_id": "3152008",
+            "customer_id": "C345",
+            "timestamp": "2023-01-19T10:00:00Z",
+            "call_type": "inbound",
+            "participants": {
+                "customer": {
+                    "customer_name": "Patricia Morgan",
+                    "account_type": "Checking accounts"
+                },
+                "agent": {
+                    "agent_name": "Kevin"
+                }
+            }
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer reported unauthorized trades in account.",
+                "primary_issue": "unauthorized trades",
+                "resolution_status": "pending",
+                "call_outcome": "callback_scheduled"
+            },
+            "transcript_segments": [
+                {
+                    "utterance_id": "1",
+                    "timestamp": "2023-01-19T10:00:00Z",
+                    "speaker": "agent",
+                    "text": "Thank you for calling Summit Investment Partners. This is Kevin speaking. How may I assist you today?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "2",
+                    "timestamp": "2023-01-19T10:00:05Z",
+                    "speaker": "customer",
+                    "text": "Yes, hi. This is Patricia Morgan. I'm calling because I just saw some trades in my account that I never authorized. I need to speak with someone immediately about this.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "unauthorized trades"
+                    ]
+                },
+                {
+                    "utterance_id": "3",
+                    "timestamp": "2023-01-19T10:00:15Z",
+                    "speaker": "agent",
+                    "text": "I understand your concern, Ms. Morgan. Let me verify your account first. Could you please provide your account number and date of birth?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "4",
+                    "timestamp": "2023-01-19T10:00:25Z",
+                    "speaker": "customer",
+                    "text": "The account is 662-11384, and my birth date is March 3, 1968.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "5",
+                    "timestamp": "2023-01-19T10:00:35Z",
+                    "speaker": "agent",
+                    "text": "Thank you for verifying that information. Could you tell me which trades you're seeing that weren't authorized?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "6",
+                    "timestamp": "2023-01-19T10:00:45Z",
+                    "speaker": "customer",
+                    "text": "Well, I'm looking at my account now, and there are three large trades from yesterday. Someone sold my entire position in Apple and Amazon, and then bought some penny stock I've never heard of. This is completely unauthorized!",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "unauthorized trades",
+                        "large trades"
+                    ]
+                },
+                {
+                    "utterance_id": "7",
+                    "timestamp": "2023-01-19T10:01:05Z",
+                    "speaker": "agent",
+                    "text": "I understand this is very concerning. Let me pull up those transactions... Yes, I see the trades you're referring to. There were sales of AAPL and AMZN totaling approximately $180,000, and a purchase of... hmm.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "AAPL",
+                        "AMZN"
+                    ]
+                },
+                {
+                    "utterance_id": "8",
+                    "timestamp": "2023-01-19T10:01:25Z",
+                    "speaker": "customer",
+                    "text": "Yes, and I want to know how this happened! I never authorized any of this. I haven't even logged into my account this week.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "unauthorized trades"
+                    ]
+                },
+                {
+                    "utterance_id": "9",
+                    "timestamp": "2023-01-19T10:01:45Z",
+                    "speaker": "agent",
+                    "text": "I'm escalating this to our fraud department immediately. Have you noticed any other unauthorized access to your account or unusual emails claiming to be from us?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "10",
+                    "timestamp": "2023-01-19T10:02:05Z",
+                    "speaker": "customer",
+                    "text": "No, nothing. And I have two-factor authentication set up specifically to prevent this kind of thing!",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "two-factor authentication"
+                    ]
+                },
+                {
+                    "utterance_id": "11",
+                    "timestamp": "2023-01-19T10:02:25Z",
+                    "speaker": "agent",
+                    "text": "I understand. I'm placing a immediate freeze on your account to prevent any further unauthorized activity. Our fraud team will need to conduct an investigation into how these trades were executed.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "12",
+                    "timestamp": "2023-01-19T10:02:45Z",
+                    "speaker": "customer",
+                    "text": "Well, how long will that take? And what about my positions? I need those shares back!",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "investigation duration"
+                    ]
+                },
+                {
+                    "utterance_id": "13",
+                    "timestamp": "2023-01-19T10:03:05Z",
+                    "speaker": "agent",
+                    "text": "The investigation typically takes 3-5 business days. However, given the size of the trades, we'll prioritize this case. We can reverse the transactions, but we'll need to document everything properly first.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "investigation duration",
+                        "reverse transactions"
+                    ]
+                },
+                {
+                    "utterance_id": "14",
+                    "timestamp": "2023-01-19T10:03:25Z",
+                    "speaker": "customer",
+                    "text": "This is unacceptable. I've been with your firm for eight years, and this kind of security breach... I'm sorry, but I've lost all confidence. I want to close my account once this is resolved.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "security breach",
+                        "close account"
+                    ]
+                },
+                {
+                    "utterance_id": "15",
+                    "timestamp": "2023-01-19T10:03:45Z",
+                    "speaker": "agent",
+                    "text": "I completely understand your position, Ms. Morgan. While we would very much like to retain you as a client, I respect your decision. Would you like me to send you the account closure forms now, which you can submit once the fraud investigation is complete?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "16",
+                    "timestamp": "2023-01-19T10:04:05Z",
+                    "speaker": "customer",
+                    "text": "Yes, please. And I want everything in writing - the unauthorized trades, the investigation, everything.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "written documentation"
+                    ]
+                },
+                {
+                    "utterance_id": "17",
+                    "timestamp": "2023-01-19T10:04:25Z",
+                    "speaker": "agent",
+                    "text": "Of course. I'll email you a detailed summary of today's call and the unauthorized transactions, along with the case number for the fraud investigation. The closure forms will be included as well.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "18",
+                    "timestamp": "2023-01-19T10:04:45Z",
+                    "speaker": "customer",
+                    "text": "And how long before my money is secure again?",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "money security"
+                    ]
+                },
+                {
+                    "utterance_id": "19",
+                    "timestamp": "2023-01-19T10:05:05Z",
+                    "speaker": "agent",
+                    "text": "The fraud team will begin work immediately. You should receive a call from them within the next two hours. They'll reverse the unauthorized trades as soon as they verify the details, typically within 24 hours.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "fraud team",
+                        "reverse trades"
+                    ]
+                },
+                {
+                    "utterance_id": "20",
+                    "timestamp": "2023-01-19T10:05:25Z",
+                    "speaker": "customer",
+                    "text": "Fine. Please make sure they call me. I want this resolved as quickly as possible so I can move my assets elsewhere.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "quick resolution"
+                    ]
+                },
+                {
+                    "utterance_id": "21",
+                    "timestamp": "2023-01-19T10:05:45Z",
+                    "speaker": "agent",
+                    "text": "I understand. I'm marking this as highest priority. Is your current email still pmorgan@email.com?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "22",
+                    "timestamp": "2023-01-19T10:06:05Z",
+                    "speaker": "customer",
+                    "text": "Yes, that's correct.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "23",
+                    "timestamp": "2023-01-19T10:06:25Z",
+                    "speaker": "agent",
+                    "text": "You'll receive all the documentation within the next 30 minutes. Again, I sincerely apologize for this situation. Is there anything else you need assistance with right now?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "24",
+                    "timestamp": "2023-01-19T10:06:45Z",
+                    "speaker": "customer",
+                    "text": "No, just make sure the fraud team calls me today.",
+                    "sentiment": "negative",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "25",
+                    "timestamp": "2023-01-19T10:07:05Z",
+                    "speaker": "agent",
+                    "text": "They will definitely call you within two hours. Thank you for bringing this to our attention, Ms. Morgan. We'll do everything we can to resolve this quickly.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "utterance_id": "26",
+                    "timestamp": "2023-01-19T10:07:25Z",
+                    "speaker": "customer",
+                    "text": "Thank you. Goodbye.",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "fraud",
+                    "description": "Unauthorized trades in account",
+                    "transaction_reference": {
+                        "amount": 180000,
+                        "date": "2023-09-30",
+                        "account_last4": "1384"
+                    }
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "internal_escalation",
+                "action_type": "issue_resolution",
+                "assigned_to": "fraud department",
+                "due_date": "2023-01-19T12:00:00Z",
+                "status": "open"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "negative"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "call_type": "inbound",
+            "customer_name": "Daniel Patel",
+            "account_type": "Checking accounts",
+            "agent_name": "Rachel",
+            "account_number": "775-90142"
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer Daniel Patel called regarding delayed transactions in his checking account, which have led to overdraft fees. The agent, Rachel, identified a compliance flag causing the delay and escalated the issue to the priority review team.",
+                "primary_issue": "delayed transactions",
+                "resolution_status": "pending",
+                "call_outcome": "escalated"
+            },
+            "transcript_segments": [
+                {
+                    "timestamp": "2023-10-05T10:00:00Z",
+                    "speaker": "agent",
+                    "text": "Thank you for calling Guardian Investment Services, this is Rachel speaking. How may I help you today?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:00:10Z",
+                    "speaker": "customer",
+                    "text": "Hi Rachel, this is Daniel Patel. I'm calling about some transactions in my account that haven't gone through yet. It's been several days now and I'm getting concerned.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "transactions not gone through"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:00:30Z",
+                    "speaker": "agent",
+                    "text": "I understand, Mr. Patel. I'd be happy to look into that for you. Before we begin, could I please verify some information? Would you mind providing your account number and the last four digits of your social security number?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:00:45Z",
+                    "speaker": "customer",
+                    "text": "Sure. The account number is, um, 775-90142, and the last four of my social are 6589.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:01:00Z",
+                    "speaker": "agent",
+                    "text": "Perfect, thank you for that information, Mr. Patel. I have your account pulled up now. So you mentioned some delayed transactions—could you tell me a bit more about what's going on?",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "delayed transactions"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:01:20Z",
+                    "speaker": "customer",
+                    "text": "Yeah, so last week—this was on February 13th—I initiated three wire transfers. Two were going out and one was coming in. The money has definitely left the sending accounts, I've confirmed that, but they're still not showing up in my accounts. And now I'm getting hit with overdraft fees because I was counting on that money being there.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "wire transfers",
+                        "overdraft fees"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:01:50Z",
+                    "speaker": "agent",
+                    "text": "I'm really sorry to hear that, Mr. Patel. That sounds frustrating. Let me take a look at those transfers for you... Yes, I can see them here in our system. You're right, they were initiated on February 13th. There appears to be... hmm, let me check something else here.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:02:10Z",
+                    "speaker": "customer",
+                    "text": "Is there a problem?",
+                    "sentiment": "negative",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:02:15Z",
+                    "speaker": "agent",
+                    "text": "Well, I'm seeing that there's been a flag raised by our compliance department on these transactions. This sometimes happens with multiple transfers occurring simultaneously, especially when they're larger amounts.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "compliance department",
+                        "multiple transfers"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:02:35Z",
+                    "speaker": "customer",
+                    "text": "But why am I just hearing about this now? I've called three times already this week, and nobody said anything about compliance issues.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "compliance issues"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:02:50Z",
+                    "speaker": "agent",
+                    "text": "I sincerely apologize for that, Mr. Patel. You absolutely should have been notified. That's definitely a breakdown in our communication, and I apologize for the frustration it's caused you.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:03:10Z",
+                    "speaker": "customer",
+                    "text": "Look, I've been banking with you guys for what, five years now? These are completely normal transactions for my business. Nothing unusual about them at all.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "normal transactions"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:03:30Z",
+                    "speaker": "agent",
+                    "text": "You're absolutely right, and with your history, this should have been handled differently. Let me confirm—the outgoing transfers are for $45,000 and $32,000, and you have an incoming transfer of $68,000, is that correct?",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "outgoing transfers",
+                        "incoming transfer"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:03:50Z",
+                    "speaker": "customer",
+                    "text": "Yes, that's exactly right. And every day this gets delayed costs me money. I've got vendors waiting on payment, and it's making me look bad.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "delayed costs",
+                        "vendors waiting"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:04:10Z",
+                    "speaker": "agent",
+                    "text": "I completely understand. This isn't acceptable, and I want to help get this resolved for you right away. What I'm going to do is escalate this to our priority review team immediately. I'm adding notes about your situation and the urgency here.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "priority review team"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:04:30Z",
+                    "speaker": "customer",
+                    "text": "How long is that going to take? Because honestly, I'm at my wit's end with this whole situation.",
+                    "sentiment": "negative",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:04:40Z",
+                    "speaker": "agent",
+                    "text": "I understand. Even with the escalation, it could take another 24 to 48 hours for the review to complete. I wish I could give you a faster timeline, but I want to be honest with you.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:05:00Z",
+                    "speaker": "customer",
+                    "text": "Two more days? That's—look, I don't mean to be difficult, but that's just not acceptable. I can't keep doing business like this. Once these transfers finally clear, I think I'm going to need to close my account.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "close my account"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:05:20Z",
+                    "speaker": "agent",
+                    "text": "I... I completely understand your position, Mr. Patel. While we would certainly hate to lose your business, I respect your decision and can help with that process if that's what you decide. Would you like me to send you the necessary forms to begin that process?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:05:40Z",
+                    "speaker": "customer",
+                    "text": "Yes, please do. And I want something in writing explaining these delays and why they happened. I've lost thousands in overdraft fees and missed payment discounts because of this.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "writing explaining delays",
+                        "overdraft fees"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:06:00Z",
+                    "speaker": "agent",
+                    "text": "Absolutely. I'll put together detailed documentation of everything that's happened, including the timeline of your transfers and this compliance review. I'll also request a review of any fees incurred as a direct result of these delays—we may be able to reimburse those for you.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "detailed documentation",
+                        "compliance review"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:06:20Z",
+                    "speaker": "customer",
+                    "text": "And what about right now? I still need these transfers processed as soon as possible.",
+                    "sentiment": "negative",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:06:30Z",
+                    "speaker": "agent",
+                    "text": "I'm adding an urgent flag to your case as we speak. You should receive a call from our priority review team within the next hour. They'll be able to explain exactly what's needed to clear these transfers and can give you more specific information than I can.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "urgent flag",
+                        "priority review team"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:06:50Z",
+                    "speaker": "customer",
+                    "text": "Alright... just make sure they actually call. And please send those closure forms right away.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "closure forms"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:07:00Z",
+                    "speaker": "agent",
+                    "text": "I'll email everything to you within the next 15 minutes. Let me just confirm—your email is still dpatel@email.com?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:07:10Z",
+                    "speaker": "customer",
+                    "text": "Yes, that's right.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:07:20Z",
+                    "speaker": "agent",
+                    "text": "Great. I'll send all the documentation and forms right away. Again, Mr. Patel, I want to sincerely apologize for this situation and the frustration it's caused you. Is there anything else I can assist you with today?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:07:40Z",
+                    "speaker": "customer",
+                    "text": "No, just make sure that review team calls me within the hour like you said.",
+                    "sentiment": "negative",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:07:50Z",
+                    "speaker": "agent",
+                    "text": "They will definitely call you, Mr. Patel. I've flagged this as highest priority. Thank you for your patience through all of this. I know it's been extremely frustrating.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "highest priority"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-05T10:08:00Z",
+                    "speaker": "customer",
+                    "text": "Thanks for your help today. Goodbye.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-05T10:08:10Z",
+                    "speaker": "agent",
+                    "text": "Thank you, Mr. Patel. Have a good rest of your day. Goodbye.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "transaction_dispute",
+                    "description": "Delayed transactions and overdraft fees",
+                    "transaction_reference": {
+                        "amount": 68000,
+                        "date": "2023-02-13",
+                        "account_last4": "0142"
+                    }
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "internal_escalation",
+                "action_type": "issue_resolution",
+                "assigned_to": "priority review team",
+                "due_date": "2023-10-07T10:08:00Z",
+                "status": "in_progress"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "negative"
+        }
+    },
+    [
+    {
+        "conversation_metadata": {
+            "call_type": "inbound",
+            "customer_name": "Sarah Mitchell",
+            "account_type": "Business savings",
+            "agent_name": "Marcus",
+            "account_number": "432-78951"
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer called regarding delayed ACH transfers affecting payroll processing. Agent identified system processing delays and expedited pending transfers.",
+                "primary_issue": "delayed transactions",
+                "resolution_status": "resolved",
+                "call_outcome": "resolved"
+            },
+            "transcript_segments": [
+                {
+                    "timestamp": "2023-10-12T14:30:00Z",
+                    "speaker": "agent",
+                    "text": "Good afternoon, Guardian Investment Services, this is Marcus. How can I assist you today?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-12T14:30:10Z",
+                    "speaker": "customer",
+                    "text": "Hi Marcus, this is Sarah Mitchell. I'm having issues with some ACH transfers that should have processed yesterday for our payroll.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "ACH transfers",
+                        "payroll"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-12T14:30:20Z",
+                    "speaker": "agent",
+                    "text": "I'm sorry to hear about that delay, Ms. Mitchell. Let me pull up your account to investigate. Can you provide your account number and verify your business name?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-12T14:30:35Z",
+                    "speaker": "customer",
+                    "text": "The account is 432-78951, and the business is Mitchell Consulting Services.",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-12T14:30:50Z",
+                    "speaker": "agent",
+                    "text": "Thank you. I can see the ACH batch you submitted on Monday for $34,500. There was a system processing delay that affected several business accounts. I'm going to expedite these transfers immediately.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "ACH batch",
+                        "$34,500",
+                        "system processing delay",
+                        "expedite"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-12T14:31:05Z",
+                    "speaker": "customer",
+                    "text": "That's a relief. My employees are depending on these payments, and I was getting worried.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "employees",
+                        "payments"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-12T14:31:20Z",
+                    "speaker": "agent",
+                    "text": "I completely understand your concern. The transfers are now processing and should complete within the next 2 hours. I'll also waive the expedite processing fee of $25 due to the system delay.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "2 hours",
+                        "expedite processing fee",
+                        "$25"
+                    ]
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "transaction_delay",
+                    "description": "ACH payroll transfers delayed",
+                    "transaction_reference": {
+                        "amount": 34500,
+                        "date": "2023-10-11",
+                        "account_last4": "8951"
+                    }
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "transaction_expedite",
+                "action_type": "issue_resolution",
+                "assigned_to": "Marcus",
+                "due_date": "2023-10-12T16:31:20Z",
+                "status": "completed"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "positive"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "call_type": "inbound",
+            "customer_name": "Robert Chen",
+            "account_type": "Personal checking",
+            "agent_name": "Lisa",
+            "account_number": "891-23456"
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer contacted about delayed direct deposit and pending bill payments. Agent resolved processing hold and ensured timely payment completion.",
+                "primary_issue": "delayed transactions",
+                "resolution_status": "resolved",
+                "call_outcome": "resolved"
+            },
+            "transcript_segments": [
+                {
+                    "timestamp": "2023-10-11T09:15:00Z",
+                    "speaker": "agent",
+                    "text": "Guardian Investment Services, this is Lisa speaking. How may I help you?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-11T09:15:12Z",
+                    "speaker": "customer",
+                    "text": "Hi Lisa, I'm Robert Chen. My direct deposit from my employer was supposed to come in yesterday, but I don't see it in my account yet.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "direct deposit",
+                        "employer"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-11T09:15:25Z",
+                    "speaker": "agent",
+                    "text": "I understand your concern, Mr. Chen. Let me check your account status. Could you please provide your account number?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-11T09:15:40Z",
+                    "speaker": "customer",
+                    "text": "Sure, it's 891-23456. I also have some automatic bill payments scheduled for today that I'm worried about.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "automatic bill payments"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-11T09:15:55Z",
+                    "speaker": "agent",
+                    "text": "I can see your direct deposit for $2,850 is currently in a processing hold due to a routine security review. Let me release that immediately, and it should post within the next hour.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "$2,850",
+                        "processing hold",
+                        "security review"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-11T09:16:10Z",
+                    "speaker": "customer",
+                    "text": "That's great, thank you. Will my bill payments still go through on time?",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "bill payments"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-11T09:16:25Z",
+                    "speaker": "agent",
+                    "text": "Yes, absolutely. I've prioritized your deposit processing, and your scheduled payments totaling $1,247 will process normally today. No late fees or issues to worry about.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "prioritized",
+                        "$1,247",
+                        "no late fees"
+                    ]
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "transaction_delay",
+                    "description": "direct deposit processing delay",
+                    "transaction_reference": {
+                        "amount": 2850,
+                        "date": "2023-10-10",
+                        "account_last4": "3456"
+                    }
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "processing_release",
+                "action_type": "issue_resolution",
+                "assigned_to": "Lisa",
+                "due_date": "2023-10-11T10:16:25Z",
+                "status": "completed"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "positive"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "call_type": "inbound",
+            "customer_name": "Jennifer Williams",
+            "account_type": "Investment account",
+            "agent_name": "David",
+            "account_number": "567-12389"
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer called about delayed mutual fund transfers between accounts. Agent identified compliance review delay and expedited the transfer process.",
+                "primary_issue": "delayed transactions",
+                "resolution_status": "resolved",
+                "call_outcome": "resolved"
+            },
+            "transcript_segments": [
+                {
+                    "timestamp": "2023-10-13T11:45:00Z",
+                    "speaker": "agent",
+                    "text": "Thank you for calling Guardian Investment Services, this is David. How can I help you today?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-13T11:45:15Z",
+                    "speaker": "customer",
+                    "text": "Hi David, this is Jennifer Williams. I initiated a transfer between my investment accounts three days ago, and it still hasn't completed.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "transfer",
+                        "investment accounts",
+                        "three days ago"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-13T11:45:30Z",
+                    "speaker": "agent",
+                    "text": "I apologize for the delay, Ms. Williams. Let me look into this for you. Can you provide your account number and the transfer amount?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-13T11:45:45Z",
+                    "speaker": "customer",
+                    "text": "My account is 567-12389, and I was moving $15,000 from my growth fund to my conservative portfolio.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "$15,000",
+                        "growth fund",
+                        "conservative portfolio"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-13T11:46:00Z",
+                    "speaker": "agent",
+                    "text": "I can see the transfer request here. It's been held up in our compliance review due to the amount threshold, but everything looks clean. I'm approving and processing this immediately.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "compliance review",
+                        "amount threshold",
+                        "approving and processing"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-13T11:46:15Z",
+                    "speaker": "customer",
+                    "text": "Thank you, David. I was getting concerned about missing the market opportunity I was planning for.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "market opportunity"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-13T11:46:30Z",
+                    "speaker": "agent",
+                    "text": "I completely understand. The transfer is now processing and should reflect in your conservative portfolio by end of business today. I'll also note your account for faster processing of similar transfers in the future.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "end of business today",
+                        "faster processing"
+                    ]
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "transaction_delay",
+                    "description": "investment account transfer delay",
+                    "transaction_reference": {
+                        "amount": 15000,
+                        "date": "2023-10-10",
+                        "account_last4": "2389"
+                    }
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "compliance_approval",
+                "action_type": "issue_resolution",
+                "assigned_to": "David",
+                "due_date": "2023-10-13T17:00:00Z",
+                "status": "completed"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "positive"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "call_type": "inbound",
+            "customer_name": "Michael Rodriguez",
+            "account_type": "Business checking",
+            "agent_name": "Amanda",
+            "account_number": "334-55671"
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer reported delayed vendor payments causing business relationship strain. Agent identified batch processing error and resolved all pending transactions.",
+                "primary_issue": "delayed transactions",
+                "resolution_status": "resolved",
+                "call_outcome": "resolved"
+            },
+            "transcript_segments": [
+                {
+                    "timestamp": "2023-10-14T13:20:00Z",
+                    "speaker": "agent",
+                    "text": "Guardian Investment Services, Amanda speaking. How may I assist you?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-14T13:20:12Z",
+                    "speaker": "customer",
+                    "text": "Hi Amanda, this is Michael Rodriguez from Rodriguez Construction. I have several vendor payments that were supposed to process yesterday but they're still pending.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "vendor payments",
+                        "Rodriguez Construction",
+                        "still pending"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-14T13:20:25Z",
+                    "speaker": "agent",
+                    "text": "I'm sorry to hear about the delay, Mr. Rodriguez. Let me check your business account immediately. What's your account number?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-14T13:20:40Z",
+                    "speaker": "customer",
+                    "text": "It's 334-55671. These are critical payments to our suppliers, and they're starting to ask questions about our reliability.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "critical payments",
+                        "suppliers",
+                        "reliability"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-14T13:20:55Z",
+                    "speaker": "agent",
+                    "text": "I can see the issue, Mr. Rodriguez. There was an error in our batch processing system that affected your payment queue. I'm processing all five payments totaling $47,200 right now.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "batch processing system",
+                        "payment queue",
+                        "five payments",
+                        "$47,200"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-14T13:21:10Z",
+                    "speaker": "customer",
+                    "text": "That's a huge relief, Amanda. How quickly will they go through?",
+                    "sentiment": "positive",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-14T13:21:25Z",
+                    "speaker": "agent",
+                    "text": "All payments are now processing and will complete within 30 minutes. I'm also waiving the rush processing fees totaling $75 due to our system error.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "30 minutes",
+                        "rush processing fees",
+                        "$75",
+                        "system error"
+                    ]
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "transaction_delay",
+                    "description": "vendor payment processing delay",
+                    "transaction_reference": {
+                        "amount": 47200,
+                        "date": "2023-10-13",
+                        "account_last4": "5671"
+                    }
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "batch_processing_fix",
+                "action_type": "issue_resolution",
+                "assigned_to": "Amanda",
+                "due_date": "2023-10-14T13:51:25Z",
+                "status": "completed"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "positive"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "call_type": "inbound",
+            "customer_name": "Emily Thompson",
+            "account_type": "Savings account",
+            "agent_name": "James",
+            "account_number": "778-90234"
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer contacted regarding delayed mortgage payment transfer causing potential late fees. Agent expedited transfer and coordinated with mortgage servicer.",
+                "primary_issue": "delayed transactions",
+                "resolution_status": "resolved",
+                "call_outcome": "resolved"
+            },
+            "transcript_segments": [
+                {
+                    "timestamp": "2023-10-15T16:10:00Z",
+                    "speaker": "agent",
+                    "text": "Good afternoon, Guardian Investment Services, this is James. How can I help you?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-15T16:10:15Z",
+                    "speaker": "customer",
+                    "text": "Hi James, this is Emily Thompson. My automatic mortgage payment was scheduled for yesterday but it hasn't gone through, and I'm worried about late fees.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "automatic mortgage payment",
+                        "late fees"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-15T16:10:30Z",
+                    "speaker": "agent",
+                    "text": "I understand your concern, Ms. Thompson. Late fees on mortgage payments can be significant. Let me check your account right away. What's your account number?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-15T16:10:45Z",
+                    "speaker": "customer",
+                    "text": "It's 778-90234. The payment is usually $1,895 and it's set to auto-pay on the 14th of each month.",
+                    "sentiment": "neutral",
+                    "key_phrases": [
+                        "$1,895",
+                        "auto-pay",
+                        "14th"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-15T16:11:00Z",
+                    "speaker": "agent",
+                    "text": "I can see the scheduled payment, Ms. Thompson. There was a technical delay in our automated payment system yesterday. I'm processing your mortgage payment immediately and will contact your lender to ensure no late fees are applied.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "technical delay",
+                        "automated payment system",
+                        "contact your lender",
+                        "no late fees"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-15T16:11:15Z",
+                    "speaker": "customer",
+                    "text": "Oh thank goodness, James. I was panicking about this affecting my credit score.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "credit score"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-15T16:11:30Z",
+                    "speaker": "agent",
+                    "text": "Your payment is now processing and will reach your mortgage servicer today. I've also sent them a notice explaining the delay was on our end, so your credit won't be affected at all.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "reach your mortgage servicer today",
+                        "notice explaining",
+                        "credit won't be affected"
+                    ]
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "transaction_delay",
+                    "description": "automatic mortgage payment delay",
+                    "transaction_reference": {
+                        "amount": 1895,
+                        "date": "2023-10-14",
+                        "account_last4": "0234"
+                    }
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "payment_expedite",
+                "action_type": "issue_resolution",
+                "assigned_to": "James",
+                "due_date": "2023-10-15T17:11:30Z",
+                "status": "completed"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "positive"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "call_type": "inbound",
+            "customer_name": "Christopher Lee",
+            "account_type": "Business money market",
+            "agent_name": "Stephanie",
+            "account_number": "612-44789"
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer called about delayed international wire transfer for equipment purchase. Agent identified correspondent bank delay and provided expedited processing.",
+                "primary_issue": "delayed transactions",
+                "resolution_status": "resolved",
+                "call_outcome": "resolved"
+            },
+            "transcript_segments": [
+                {
+                    "timestamp": "2023-10-16T10:30:00Z",
+                    "speaker": "agent",
+                    "text": "Guardian Investment Services, Stephanie speaking. How may I help you today?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-16T10:30:12Z",
+                    "speaker": "customer",
+                    "text": "Hi Stephanie, this is Christopher Lee. I sent an international wire transfer on Friday for $62,000, and the recipient says they haven't received it yet.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "international wire transfer",
+                        "$62,000",
+                        "Friday"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-16T10:30:25Z",
+                    "speaker": "agent",
+                    "text": "I understand your concern, Mr. Lee. International wires can sometimes take longer, but let me track this for you. Can you provide your account number?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-16T10:30:40Z",
+                    "speaker": "customer",
+                    "text": "Sure, it's 612-44789. This is for critical manufacturing equipment, and the delay is affecting our production schedule.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "manufacturing equipment",
+                        "production schedule"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-16T10:30:55Z",
+                    "speaker": "agent",
+                    "text": "I can see your wire transfer to Germany. It's currently held at our correspondent bank for additional verification. This is unusual for your account. Let me contact them immediately to expedite this.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "wire transfer to Germany",
+                        "correspondent bank",
+                        "additional verification",
+                        "expedite"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-16T10:31:10Z",
+                    "speaker": "customer",
+                    "text": "I really appreciate that, Stephanie. We need that equipment delivered by Wednesday.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "Wednesday"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-16T10:31:25Z",
+                    "speaker": "agent",
+                    "text": "I've just spoken with our correspondent bank, and they're releasing the wire immediately. It should reach the recipient within 2-3 hours. I'm also crediting back the $40 international wire fee due to this delay.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "releasing the wire immediately",
+                        "2-3 hours",
+                        "$40 international wire fee"
+                    ]
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "transaction_delay",
+                    "description": "international wire transfer delay",
+                    "transaction_reference": {
+                        "amount": 62000,
+                        "date": "2023-10-13",
+                        "account_last4": "4789"
+                    }
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "correspondent_bank_follow_up",
+                "action_type": "issue_resolution",
+                "assigned_to": "Stephanie",
+                "due_date": "2023-10-16T13:31:25Z",
+                "status": "completed"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "positive"
+        }
+    },
+    {
+        "conversation_metadata": {
+            "call_type": "inbound",
+            "customer_name": "Patricia Johnson",
+            "account_type": "Personal checking",
+            "agent_name": "Kevin",
+            "account_number": "445-87123"
+        },
+        "conversation_details": {
+            "summary": {
+                "overview": "Customer contacted about delayed tax refund deposit and subsequent overdraft fees. Agent resolved deposit issue and waived related fees.",
+                "primary_issue": "delayed transactions",
+                "resolution_status": "resolved",
+                "call_outcome": "resolved"
+            },
+            "transcript_segments": [
+                {
+                    "timestamp": "2023-10-17T14:45:00Z",
+                    "speaker": "agent",
+                    "text": "Thank you for calling Guardian Investment Services, this is Kevin. How can I assist you?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-17T14:45:12Z",
+                    "speaker": "customer",
+                    "text": "Hi Kevin, this is Patricia Johnson. My tax refund was supposed to be deposited last week, but it's not showing up, and now I have overdraft fees.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "tax refund",
+                        "last week",
+                        "overdraft fees"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-17T14:45:25Z",
+                    "speaker": "agent",
+                    "text": "I'm sorry to hear about this situation, Ms. Johnson. Let me look into both the deposit delay and those fees. Can you provide your account number?",
+                    "sentiment": "neutral",
+                    "key_phrases": []
+                },
+                {
+                    "timestamp": "2023-10-17T14:45:40Z",
+                    "speaker": "customer",
+                    "text": "It's 445-87123. The refund should have been $3,240, and I got hit with three overdraft fees because I was counting on that money.",
+                    "sentiment": "negative",
+                    "key_phrases": [
+                        "$3,240",
+                        "three overdraft fees"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-17T14:45:55Z",
+                    "speaker": "agent",
+                    "text": "I can see the issue, Ms. Johnson. Your refund deposit was flagged for verification due to the amount. I'm releasing it now, and it will post immediately. I'm also reversing all three overdraft fees totaling $105.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "flagged for verification",
+                        "releasing it now",
+                        "post immediately",
+                        "reversing",
+                        "$105"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-17T14:46:10Z",
+                    "speaker": "customer",
+                    "text": "Oh wow, thank you so much Kevin. I was really stressed about those fees on top of everything else.",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "stressed"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-17T14:46:25Z",
+                    "speaker": "agent",
+                    "text": "I completely understand, and I'm glad I could resolve this quickly. Your refund is now in your account, and the fee reversals will show up within the hour. Is there anything else I can help with?",
+                    "sentiment": "positive",
+                    "key_phrases": [
+                        "refund is now in your account",
+                        "fee reversals",
+                        "within the hour"
+                    ]
+                }
+            ]
+        },
+        "key_points": {
+            "customer_concerns": [
+                {
+                    "type": "transaction_delay",
+                    "description": "tax refund deposit delay",
+                    "transaction_reference": {
+                        "amount": 3240,
+                        "date": "2023-10-10",
+                        "account_last4": "7123"
+                    }
+                }
+            ]
+        },
+        "action_items": [
+            {
+                "type": "deposit_release",
+                "action_type": "issue_resolution",
+                "assigned_to": "Kevin",
+                "due_date": "2023-10-17T14:46:25Z",
+                "status": "completed"
+            }
+        ],
+        "analytics": {
+            "overall_sentiment": "positive"
+        }
+    }
+]
+]
